@@ -2,7 +2,8 @@
   <div id="nav">
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link> |
-    <router-link to="/experiencia">Experiencias Laborales</router-link>
+    <router-link to="/experiencia">Experiencias Laborales</router-link> |
+    <router-link to="/estudios">Estudios Realizados</router-link>
   </div>
   <router-view/>
 </template>
