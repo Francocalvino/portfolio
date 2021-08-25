@@ -1,6 +1,6 @@
 <template>
 
-  <div class="estudios">
+  <div class="estudiosrealizados">
       
     <h1>Aqui van los estudios realizados</h1>
     
