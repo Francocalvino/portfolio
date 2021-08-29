@@ -1,6 +1,6 @@
 <template>
   <div class="experiencialaboral">
-    <h1>Experiencias Trabajo</h1>
+    <h1>eXpeRiencia  lAborAl</h1>
     <p class="objetivo">Estoy en busqueda de un trabajo donde pueda formar parte de un equipo................................. </p>
   </div>
     <div class="experiencias">Responable de Seccion, Zara Argentina 2008/2014</div><a href=""><img src="" alt=""></a>

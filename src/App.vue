@@ -1,21 +1,21 @@
 <template>
   <div id="nav">
     <div class="top">
-      <router-link to="/" class="home">Home</router-link> |
-      <router-link to="/about" class="about1">About</router-link> 
+      <router-link to="/" class="home">Home  </router-link> |
+      <router-link to="/about" class="about1">  About </router-link> 
     </div>
     <div class="medio">
 
-      <router-link to="/experiencia" class="experiencia">Experiencia</router-link> 
+      <router-link to="/experiencia" class="experiencia">eXpeRienciA lAboRAl </router-link> 
       <div class="contenido">
        <router-view/>
        </div>
-      <router-link to="/estudios" class="estudios">Estudios Realizados</router-link> 
+      <router-link to="/estudios" class="estudios">estudios RealiZAdos</router-link> 
     </div> 
     
     <div class="footer">
 
-      <router-link to="/estudiosdev" class="estudiosdev">Estudios de Desarrollador</router-link>
+      <router-link to="/estudiosdev" class="estudiosdev">pRoYectos de desARRollo</router-link>
        
       </div>
     
@@ -23,10 +23,10 @@
 </template>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Alata&family=Bungee&family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Goldman&family=Major+Mono+Display&family=Megrim&family=Staatliches&family=Stardos+Stencil&family=Wallpoet&family=Zen+Dots&display=swap');
 
 #app {
-  font-family: 'Alata', sans-serif;
+  font-family: 'Major Mono Display', monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
@@ -37,7 +37,7 @@
 
 .contenido{
   width: 90vw;
-  height: 90vh;
+  height: ;
   
 }
 

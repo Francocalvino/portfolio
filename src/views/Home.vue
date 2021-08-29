@@ -3,8 +3,8 @@
     <div class="home">
        <div class="textoBienvenida">
          <div class="centro a">
-          <p class="bienvenido">Bienvenido </p> 
-          <p class="al">al Portfolio </p>
+        
+          <p class="al">Portfolio </p>
           <p class="de">de</p>
           <p class="fc">Franco Calviño </p>
         </div>
@@ -16,7 +16,7 @@
           <p>Front End</p>
         </div>
       </div>
-      <img class="imgFranco" alt="Foto Franco Calviño" src="../assets/imgFranco.jpg">
+      <img class="imgFranco" alt="Foto Franco Calviño" src="../assets/francotest4.png">
     </div>
   </div>
 </template>
@@ -27,8 +27,8 @@
   background-color:silver;
 }
 .imgFranco {
-  width: 90vw;
-  height: 90vh;
+  max-width: 100vw;
+  max-height: 100vh;
   object-fit: cover;
   position: relative; 
   z-index: 0 ;
@@ -47,6 +47,7 @@
   height: 45%;
   width: 25%;
   margin-left: 7%;
+  font-family: 'Staatliches';
 }
 .bienvenido{
   text-align: left !important;
@@ -70,10 +71,11 @@
 }
 
 .c{
-  width: 25%;
-  font-size: 1.9rem;
-  font-weight: bold;
-  margin-right: 10%;
+  width: 20%;
+  font-family: 'Major Mono Display';
+  font-size: 1.4em;
+  
+  margin-right: ;
 }
 
 
