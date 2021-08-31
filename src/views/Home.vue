@@ -27,8 +27,8 @@
   background-color:silver;
 }
 .imgFranco {
-  max-width: 100vw;
-  max-height: 100vh;
+  width: 100%;
+  max-height: 92vh;
   object-fit: cover;
   position: relative; 
   z-index: 0 ;
@@ -37,8 +37,8 @@
   font-family: 'Special Elite', cursive;
   position: absolute; 
   z-index: 1;
-  width: 90%;
-  height: 100%;
+  width: 80vw;
+  height: 95 vh;
   display: flex;
   justify-content: space-around;
   align-items: center;

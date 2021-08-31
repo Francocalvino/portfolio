@@ -32,18 +32,13 @@
   text-align: center;
   color: #2c3e50;
   text-decoration: none;
-}
-
-
-.contenido{
-  width: 90vw;
-  height: ;
-  
+  margin: 0;
 }
 
 #nav a {
   font-weight: bold;
   color: #2c3e50;
+
 }
 
 #nav a.router-link-exact-active {
@@ -54,8 +49,14 @@
   display:block;
   margin: 0;
   padding: 0;
-  width: 100vw;
-  height: 100vh;
+  z-index: 99;
+}
+
+.contenido{
+  max-width: 100vw;
+  max-height: 93vh;
+  min-height: 93vh;
+  z-index: 1;
 }
 
 .experiencia{
