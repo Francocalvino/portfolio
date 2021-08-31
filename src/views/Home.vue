@@ -1,5 +1,5 @@
 <template>
-  <div class="all">
+  
     <div class="home">
        <div class="textoBienvenida">
          <div class="centro a">
@@ -18,7 +18,7 @@
       </div>
       <img class="imgFranco" alt="Foto Franco Calviño" src="../assets/francotest4.png">
     </div>
-  </div>
+  
 </template>
 
 <style scoped>
@@ -27,8 +27,10 @@
 
   background-image: linear-gradient(to right, #A5D6CB , #BBD6C6);
   width: 100%;
+  height: ;
   display:flex;
   align-items:center;
+  border-radius: 2.5rem;
 }
 .imgFranco {
   width: 95vw;
@@ -38,6 +40,7 @@
   z-index: 0 ;
   display: flex;
   align-items: center;
+  
 }
 .textoBienvenida {
   font-family: 'Major Mono Display';

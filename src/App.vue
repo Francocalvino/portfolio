@@ -50,6 +50,8 @@
   margin: 0;
   padding: 0;
   z-index: 99;
+  height: 100%;
+  width: 100%;
 }
 
 .contenido{
@@ -88,7 +90,7 @@
 .medio{
   display: flex;
   justify-content: space-between;
-  width: 100%;
+  width: 98vw;
 }
 
 .footer{
