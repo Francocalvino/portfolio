@@ -4,9 +4,9 @@
        <div class="textoBienvenida">
          <div class="centro a">
         
-          <p class="al">Portfolio </p>
+          <p class="al">portfolio </p>
           <p class="de">de</p>
-          <p class="fc">Franco Calviño </p>
+          <p class="fc">franco calviño </p>
         </div>
         <div class="centro b">
       
@@ -24,43 +24,47 @@
 <style scoped>
 
 .home{
-  background-color:silver;
+
+  background-image: linear-gradient(to right, #A5D6CB , #BBD6C6);
+  width: 100%;
+  display:flex;
+  align-items:center;
 }
 .imgFranco {
-  width: 100%;
+  width: 95vw;
   max-height: 92vh;
-  object-fit: cover;
+  object-fit: contain;
   position: relative; 
   z-index: 0 ;
+  display: flex;
+  align-items: center;
 }
 .textoBienvenida {
-  font-family: 'Special Elite', cursive;
+  font-family: 'Major Mono Display';
+  font-weight: 900;
   position: absolute; 
   z-index: 1;
-  width: 80vw;
+  width: 95vw;
   height: 95 vh;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   align-items: center;
 }
 .a {
+  font-size: 1.4rem;
   height: 45%;
-  width: 25%;
-  margin-left: 7%;
-  font-family: 'Staatliches';
+  width: 30%;
+  font-weight: bolder;
 }
 .bienvenido{
   text-align: left !important;
-  margin-left: 8%;
 }
-.de{
-  margin-right: 10%;
-}
+
 .fc{
   margin-left:30%;
   margin-top: 10%;
-  font-size: 1.5rem;
-  font-weight: 500;
+  font-size: 1.6rem;
+  
   height: 10%;
   transition: text-decoration 5s, font-size 2s;
 }
@@ -71,11 +75,12 @@
 }
 
 .c{
+
   width: 20%;
   font-family: 'Major Mono Display';
   font-size: 1.4em;
   
-  margin-right: ;
+  margin-right: 8%;
 }
 
 
