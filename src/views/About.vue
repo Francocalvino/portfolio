@@ -29,22 +29,21 @@
 }
 .container{
   
-  height: 100vh;
+  height: 92vh;
   width: auto;
-  display: block;
-  align-content: space-between;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-evenly;
   
 }
 .cont{
-   background: linear-gradient(90deg, rgba(165,214,203,1) 0%, rgba(165,182,179,1) 50%, rgba(187,214,198,1) 100%);
+   background: linear-gradient(90deg, rgba(165,214,203,1) 0%, rgba(165,189,184,1) 39%, rgba(170,186,181,1) 49%, rgba(187,214,198,1) 100%);
   padding: 3%;
   box-shadow: 0px 0px 15px 3px rgba(0, 0, 255, .2);
   border-radius: 2.5rem;
   margin-top: 0 !important;
 }
-.datosPersonales{
-  margin-top: 3rem !important;
-}
+
 
 
 </style>

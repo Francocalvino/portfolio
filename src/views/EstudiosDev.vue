@@ -36,15 +36,7 @@
     <div class="programas">Node Js</div>
     <div class="programas"></div>
   </div>
-  <div class="hablidadesContainer">
-    <div class="habilidades"></div>
-    <div class="habilidades"></div>
-    <div class="habilidades"></div>
-    <div class="habilidades"></div>
-    <div class="habilidades"></div>
-    <div class="habilidades"></div>
-    <div class="habilidades"></div>
-  </div>
+  
   
 </template>
 
