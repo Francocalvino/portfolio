@@ -34,11 +34,15 @@
   display: flex;
   flex-direction: column;
   justify-content:space-evenly;
+  align-items: center;
   
 }
 .cont{
-   background: linear-gradient(90deg, rgba(165,214,203,1) 0%, rgba(165,189,184,1) 39%, rgba(170,186,181,1) 49%, rgba(187,214,198,1) 100%);
+   background:  radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 56%, rgba(195,230,222,1) 100%);;/* linear-gradient(90deg, rgba(165,214,203,1) 0%, rgba(165,189,184,1) 39%, rgba(170,186,181,1) 49%, rgba(187,214,198,1) 100%); */
+  border: 5px solid;
+  border-color: #c3e6de;
   padding: 3%;
+  width: fit-content;
   box-shadow: 0px 0px 15px 3px rgba(0, 0, 255, .2);
   border-radius: 2.5rem;
   margin-top: 0 !important;
