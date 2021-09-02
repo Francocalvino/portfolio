@@ -38,8 +38,8 @@
   
 }
 .cont{
-   background:  radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 56%, rgba(195,230,222,1) 100%);;/* linear-gradient(90deg, rgba(165,214,203,1) 0%, rgba(165,189,184,1) 39%, rgba(170,186,181,1) 49%, rgba(187,214,198,1) 100%); */
-  border: 5px solid;
+   /* background:  radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 56%, rgba(195,230,222,1) 100%); *//* linear-gradient(90deg, rgba(165,214,203,1) 0%, rgba(165,189,184,1) 39%, rgba(170,186,181,1) 49%, rgba(187,214,198,1) 100%); */
+  border: 7px solid;
   border-color: #c3e6de;
   padding: 3%;
   width: fit-content;

@@ -36,37 +36,49 @@ ul{
   list-style:none;
   line-height: 120%;
   padding:0;
-  
+}
+h1{
+  text-decoration: underline #2c3e50;
+}
+h2{
+  text-decoration: underline #2c3e50;
 }
 .contenido{
   display: flex;
   justify-content: space-around;
+  align-items: center;
   width: 95vw;
   margin: 0;
 }
 .contenedor{
   
-  width: 37vw;
+  width: 35vw;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: center;
   align-content: center;
   padding: 3rem;
-  height: 77.5vh;
+  height: 72vh;
   margin: 0;
   border-radius: 2.5rem;
-  box-shadow: 0px 0px 15px 3px rgba(0, 0, 255, .2);
+  border: 12px solid;
+  border-color: #c3e6de;
+  box-shadow: 0px 0px 15px 3px rgba(165,214,203,1) ;
+font-size: 1.2rem;
 }
 .izq{
-  background: linear-gradient(90deg, rgba(165,214,203,1) 0%, rgba(165,189,184,1) 78%, rgba(170,186,181,1) 100%);
+  /* background: linear-gradient(90deg, rgba(165,214,203,1) 0%, rgba(165,189,184,1) 78%, rgba(170,186,181,1) 100%); */
 }
 .der{
-   background: linear-gradient(90deg, rgba(170,186,181,1) 39%,rgba(187,214,198,1) 100%);
+   /* background: linear-gradient(90deg, rgba(170,186,181,1) 39%,rgba(187,214,198,1) 100%); */
    justify-content: space-evenly;
 }
 .izq li{
   margin-bottom: 10%;
-  margin-top: 11% ;
+  margin-top: 3% ;
+  
+  
 }
 
 </style>
