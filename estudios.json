@@ -1,0 +1,50 @@
+{
+    "proyectos":[
+        {
+            "id": 1,
+            "title":"Moods",
+            "description":"Primer proyecto con cliente real, Donde ocupé el puesto de Product Owner. Desarrollado para grupo de psicologos para tratamiento de adicción a las pantallas. Realizado con PHP, VUE, MYSQL y JAVASCRIPT"
+        },
+        {
+            "id": 2,
+            "title":"Kiku App",
+            "description":"Video juego para tratamiento de rehabilitacion de niños con deficiencia auditiva. Desarrollado con VUE, VUEX y JAVASCRIPT"
+        },
+        {
+            "id": 3,
+            "title":"Tech Manager",
+            "description":"CRUD, Generador de citas. Realizado con PHP, VUE, MYSQL. En Produccion en HEROKU"
+        },
+        {
+            "id": 4,
+            "title":"Consultorio",
+            "description":"CRUD. Generador de citas de alumnos para profesores. Desarrollado con PHP,SASS, JAVASCIPT, MYSQL.En Produccion en HEROKU"
+        },
+        {
+            "id": 5,
+            "title":"Whell of Doom",
+            "description":"Selector Random/Sorteo. Desarrollada con HTML, CSS, JAVASCRIPT y BOOTSTRAP. En produccion en GITHUB PAGES"
+        },
+        {
+            "id": 6,
+            "title":"Floristeria Digital",
+            "description":"E-Commerce de Plantas. Desarrollada con HTML, CSS JAVASCRIPT y BOOTSTRAP. En produccion en GITHUB PAGES"
+        },
+        {
+            "id": 7,
+            "title":"Food Market",
+            "description":"E-Commerce de Alimentos. Desarrollada con HTML, CSS y JAVASCRIPT. En produccion en GITHUB PAGES"
+        },
+        {
+            "id": 8,
+            "title":"Hit the Domboom",
+            "description":"Bateria digital, desarrollada con HTML, CSS y JAVASCRIPT. En produccion en GITHUB PAGES"
+        },
+        {
+            "id": 9,
+            "title":"Clock JS",
+            "description":"Reloj desarrollado con javascript en produccion en GitHub Pages"
+        }
+
+    ]   
+}

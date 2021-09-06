@@ -3,9 +3,11 @@
   <div class="estudiosDev">
       
     <h1>Proyectos de Desarrollo</h1>
+    <!-- <article v-for=""></article> -->
+    <button></button>
     
   </div>
-  <div class="proyectosRealizados">
+ <!--  <div class="proyectosRealizados">
     <div class="proyectos">Moods</div>
     <div class="proyectos">KiKu App</div>
     <div class="proyectos">Tech Manager</div>
@@ -36,7 +38,7 @@
     <div class="programas">Node Js</div>
     <div class="programas"></div>
   </div>
-  
+ -->  
   
 </template>
 

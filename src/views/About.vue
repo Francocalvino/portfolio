@@ -3,8 +3,8 @@
     <div class="container">
       <div class="cont descripcion">
         <h2>Presentación</h2>
-        <p>Soy una persona proactiva curiosa y sincera. A traves de la busqueda activa de aprendisaje conoci el mundo del desarrollo, donde desde un comienzo me forme de la mano del BootCamp de FACTORIA F5 (Desarrollo Front-End, 300hs, Desarrollo Full-Stack 850hs)complementandolos con cursos y documentacion encontrada en internet.
-          Actualmente estoy en busqueda de un trabajo en el que pueda poner en practica mis conocimientos y me forme profesionalmente para seguir creciendo en el mundo del desarrollo y diseño web.
+        <p>Soy una persona proactiva curiosa y sincera. A traves de la busqueda activa de aprendisaje conocí el mundo del desarrollo, donde desde un comienzo me forme de la mano del BootCamp de FACTORIA F5 (Desarrollo Front-End, 300hs, Desarrollo Full-Stack 850hs)complementandolos con cursos y documentacion encontrada en internet.
+          Actualmente estoy en busqueda de un trabajo en el que pueda poner en practica mis conocimientos y me forme profesionalmente para seguir creciendo en el mundo profesiona del desarrollo y diseño web.
         </p>
 
       </div>
@@ -26,6 +26,9 @@
   flex-direction: column;
   height: 100%;
   align-content: baseline;
+}
+h2{
+  text-decoration: underline #2c3e50;
 }
 .container{
   
